@@ -5,6 +5,7 @@ package main
 
 import (
 	"bytes"
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -261,6 +262,14 @@ func getAdditionalEnvs(config *WatchdogConfig, r *http.Request, method string) [
 			envs = append(envs, fmt.Sprintf("Http_Host=%s", r.Host))
 		}
 
+		var objmap map[string]string
+
+		err := json.NewDecoder(r.Body).Decode(&objmap)
+		if err == nil {
+			for k, v := range objmap {
+				envs = append(envs, fmt.Sprintf("%s=%s", k, v))
+			}
+		}
 	}
 
 	return envs
