@@ -48,11 +48,14 @@ It would be great to hear from you especially if you have any of the above and w
 
 | Title                                                               | Show       | Date        |
 |---------------------------------------------------------------------|--------------|----------|
+| [Serverless, FaaS, and Kubernetes Tools with Alex Ellis of OpenFaaS DevOps and Docker Talk](https://podcast.bretfisher.com/episodes/serverless-faas-and-kubernetes-tools-with-alex-ellis-of-openfaas) | Bret Fisher Docker and DevOps Talk| 24-Apr-2020 | 
 | [Serverless Functions with Alex Ellis of OpenFaaS: DevOps and Docker Live Show (Ep 68)](https://www.youtube.com/watch?v=5zDvjIkMf9I) | Bret Fisher Docker and DevOps | 16-Jan-2020 | 
 | [OpenFaaS Creator on Open Source’s Community-Funding Model](https://thenewstack.io/openfaas-creator-on-open-sources-community-funding-model/) | The New Stack | 11-Jul-2019 |
 | [Running functions anywhere with OpenFaaS - featuring Alex Ellis](https://changelog.com/podcast/343) | The Changelog | 25-Apr-2019 |
 | [Episode 022 – OpenFaaS with Docker Captain](https://changelog.com/podcast/343) | The 6 Figure Developer Podcast | 15-Jan-2018 |
 | [Serverless and OpenFaas with Alex Ellis](https://hanselminutes.com/612/serverless-and-openfaas-with-alex-ellis) | The Hanselminutes Podcast | 29-Dec-2019 |
+| [POPCAST Episode 5 - Going independent and Cloud Native Open Source](https://www.youtube.com/watch?v=66mMC9w-dM4) | Popcast | 09-04-2020 |
+| [How OpenFaaS Found its groove with arm](https://www.worksonarm.com/blog/how-openfaas-found-its-groove-with-arm/) | WorksOnArm | 20-04-2020 |
 
 ### Featured Videos
 
@@ -74,9 +77,12 @@ It would be great to hear from you especially if you have any of the above and w
 
 | Event name and description                                          | Speaker      | Location | Date        |
 |---------------------------------------------------------------------|--------------|----------|-------------|
+| [GitOps meets Serverless with OpenFaaS and Flux ](https://www.meetup.com/Weave-User-Group/events/269899027/) | Alex Ellis | Weave Online User Group | 29-Apr-2020 |
+| [Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaaS](https://sg.com.mx/sgvirtual/sessions/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas/) | Sergio Méndez | SG Virtual Conference | 21-Apr-2020 |
+| [Serverless for Kubernetes with NATS and PLONK](https://youtu.be/J0zbYbvYiM8?t=1135) | Alex Ellis | NATS Connect | 16-Apr-2020 |
 | [The Need for a Cloud Native Tunnel](https://virtual.rejekts.io) | Alex Ellis | Virtual Cloud Native Rejekts | 1-Apr-2020 |
 | [TBS[13] Crossplane and OpenFaaS livestream](https://www.youtube.com/watch?v=XphQgB87U-s&feature=youtu.be)| Daniel Mangum & Alex Ellis | YouTube | 26-Mar-2020 |
-| [Kubernetes the easy way with k3sup, OpenFaaS and inlets](https://zoom.us/webinar/register/WN_UEhl9ieUT52BVQlhrSdZQw) | Alex Ellis & Alistair Hey | Online Webinar for Traefik | 12-Mar-2020 |
+| [Kubernetes the easy way with k3sup, OpenFaaS and inlets](https://www.youtube.com/watch?v=r4mEF8rtXWo) | Alex Ellis & Alistair Hey | Online Webinar for Traefik | 12-Mar-2020 |
 | [Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaaS](https://www.meetup.com/de-DE/cloud-native-plus-gt/events/269147693/) | Sergio M. | Zoom | 12-Mar-2020 |
 
 Postponed events for 2020
@@ -98,6 +104,13 @@ Postponed events for 2020
 
 | Blog/repo name and description                                          | Author       | Site     | Date        |
 |-------------------------------------------------------------------------|--------------|----------|-------------|
+| [An openFAAS multipart body processing custom language template based on node12 and restify](https://medium.com/@therealburningman/an-openfaas-multipart-body-processing-custom-language-template-based-on-node12-and-restify-7e9e8a78f9be) | Hans van den Akker | medium.com | 15-May-2020 |
+| [Create Serverless Functions with OpenFaaS](https://medium.com/appfleet/create-serverless-functions-with-openfaas-1b2ba1dff8cf) | Appfleet Team | medium.com | 14-May-2020 |
+| [OpenFaaS, what's it all about?](https://blog.heyal.co.uk/openfaas-whats-it-about/)| Alistair Hey | blog.heyal.co.uk | 12-05-2020 |
+| [Self-hosting serverless with OpenFaaS](https://www.mskog.com/posts/self-hosting-serverless-with-openfaas/) | Magnus Skog | mskog.com | 03-May-2020 |
+| [Why I Created an OpenFaaS Template for COBOL](https://unnecessary.tech/posts/openfaas-cobol/) | Christopher De Vries | unnecessary.tech | 27-Apr-2020 |
+| [Call OpenFaaS Serverless Functions with Gloo API Gateway](https://medium.com/alterway/call-openfaas-serverless-functions-with-gloo-api-gateway-678a00710481?source=rss------kubernetes-5) | Hervé Leclerc | medium.com | 21-Apr-2020 |
+| [Data Pipelines with OpenFaas on K3s](https://medium.com/@yoav.nordmann/data-pipelines-with-openfaas-on-k3s-b92e97bc125b) | Yoav Nordmann | medium.com | 19-Apr-2020 |
 |[Tracking Stripe Payments with Slack and faasd](https://myedes.io/stripe-serverless-webhook-faasd/) | Mehdi Yedes | myedes.io | 04-Apr-2020
 |[Building Serverless CRUD services in Go with OpenFaaS, Arkade, MongoDB and k3d](https://dev.to/wingkwong/building-serverless-crud-services-in-go-with-openfaas-arkade-mongodb-and-k3d-1d93) | Wing-Kam Wong | dev.to | 29-Mar-2020 |
 |[Raspberry Pi Kubernetes Cluster with OpenFaaS for Serverless Functions](https://www.shogan.co.uk/kubernetes/raspberry-pi-kubernetes-cluster-with-openfaas-for-serverless-functions-part-4/) | Sean Duffy | shogan.co.uk | 24-Mar-2020 |
@@ -120,7 +133,6 @@ Postponed events for 2020
 | [Applying GitOps to OpenFaaS with Flux Helm Operator](https://www.openfaas.com/blog/openfaas-flux/) | Stefan Prodan | openfaas.com| 16-Jan-2020| 
 | [OpenFaaS 3rd Birthday Celebrations](https://www.openfaas.com/blog/birthday-teamserverless/) | Alex Ellis | openfaas.com| 14-Jan-2020| 
 | [How To Get Started Contributing to OpenFaaS](https://blog.heyal.co.uk/developing-openfaas/)| Alistair Hey | blog.heyal.co.uk| 04-Jan-2020 |
-
 ### 2019
 
 #### Events in 2019
@@ -152,8 +164,10 @@ Postponed events for 2020
 | [Serverless Week](https://slsweek.netlify.com) | Several | Online, Brazil | 22-Jul-2019 to 26-Jul-2019 |
 | [Unlocking your serverless functions with OpenFaaS for AI chatbot projects](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105) | Sergio Méndez @sergioarmgpl | OSCON, Portland Oregon | 17-Jul-2019 |
 | [Cloud Native Edinburgh](https://www.slideshare.net/mobile/KeiranSmith4/open-faas-and-linkerd) | Keiran Smith (@CLI) | Edinburgh Scotland | 16-Jul-2019 |
+| [Serverless con OpenFaaS Y Java](https://bit.ly/35tKCDA) | Carlos Camacho | JConf Colombia, Medellin, Colombia | 06-Jul-2019 |
 | [Deploying Go Functions @ GoWayFest](https://goway.io) | Julien Bisconti | Minsk, Belarus | 05-Jul-2019 |
 | [Serverless Functions Frameworks : OpenFaaS Day](https://www.meetup.com/Cloud-Native-Computing-Belo-Horizonte/events/262673508/) | Marcelo Umberto and Jefferson Otoni Lima | Belo Horizonte, Brazil | 04-Jul-2019 |
+| [Serverless con OpenFaaS Y Java](https://bit.ly/3fcpSoe) | Carlos Camacho | JConf Dominicana, Santiago, Dominican Republic | 29-Jun-2019 |
 | [ContainerDays EU: Kubernetes and AWS Lambda can play nicely together with OpenFaaS](https://www.containerdays.io/program/) | Edward Wilde | ContainerDays | 25-June-2019 |
 | [Blockchain as a Service at Scale](https://devweeksea2019.sched.com/event/PVpz) | Dean Shelton | Seattle, USA | 31-May-2019 |
 | [OpenFaaS - mit Docker einfach Serverless](https://www.xing.com/events/openfaas-docker-einfach-serverless-2104708) | Frank Pommerening | Ratingen, Germany | 29-May-2019 |
@@ -300,6 +314,7 @@ Postponed events for 2020
 | [Writing Serverless functions in Python](https://www.openfest.org/2018/en/) | [Ivana Yovcheva](https://twitter.com/ivanabyov) | Sofia, Bulgaria | 3-Nov-2018 |
 | [Serverless functions made simple with Kubernetes (lightning talk)](https://www.openfest.org/2018/en/) | [Ivana Yovcheva](https://twitter.com/ivanabyov) | Sofia, Bulgaria | 3-Nov-2018 |
 | [Serverlessconf Tokyo 2018 OpenFaaS Workshop](http://tokyo.serverlessconf.io/workshops.html) | Ken Fukuyama | Tokyo, JP | 28-Sep-2018 |
+| [OpenFaaS on Kubernetes](https://www.katacoda.com/courses/serverless/openfaas)| Jonathan Johnson | katacoda.com/courses/serverless| 22-Sep-2018 |
 | [Building Cloud-Native Apps - FaaS: The Swiss Army Knife of Cloud Native](https://www.meetup.com/Cloud_Native_Meetup/events/254232936/) | James McAfee | Sydney, Australia | 12-Sep-2018 |
 | [ Creating Your First Serverless Function with OpenFaaS - VMworld 2018](https://www.youtube.com/watch?v=xiLkq1zQldE&t) | Kendrick Coleman | Las Vegas, NV, USA |28-Aug-2018 |
 | [ John Callaway: .NET Core on a Raspberry Pi Cluster with Docker and OpenFaaS](https://secure.meetup.com/register/?ctx=ref) | John Callaway | Orlando, FL, USA |16-Aug-2018 |
